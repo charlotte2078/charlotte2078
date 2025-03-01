@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @charlotte2078
+- 👀 I’m interested in Graphics programming and Games programming!
+- 🌱 I’m currently learning DirectX 12
+- 💞️ Here's my portfolio! -> https://charlottecleary.com/
+- 📫 How to reach me: LinkedIn! https://www.linkedin.com/in/charlotte-cleary/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My newest hobby is baking sourdough bread!
