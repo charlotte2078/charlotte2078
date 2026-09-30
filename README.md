@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @charlotte2078
-- 👀 I’m interested in Graphics programming and Games programming!
+- 👋 Hi, I’m @charlotte2078 ! Previously I was a Rendering Intern at Rare!
+- 🎓 I am currently in my final year of BSc Games Development at the University of Lancashire!
+- 👀 I’m interested in Graphics, Engine, and Gameplay programming!
 - 🌱 I’m currently learning DirectX 12
 - 💞️ Here's my portfolio! -> https://charlottecleary.com/
 - 📫 How to reach me: LinkedIn! https://www.linkedin.com/in/charlotte-cleary/
